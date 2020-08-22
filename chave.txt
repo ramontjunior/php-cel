@@ -1,0 +1,14 @@
+The key fingerprint is:
+SHA256:i5xRhT7wJNgQPU5C7gMO0L1roBxUOtPASpona4RJ2Tc user@Linux
+The key's randomart image is:
++---[RSA 2048]----+
+|oo+++*   ..      |
+|.*=o+EB o.       |
+|O*..o=.B.        |
+|B==o. ..+        |
+|o=o.o.. S.       |
+|oo  oo + .       |
+|.  .  + .        |
+|                 |
+|                 |
++----[SHA256]-----+
